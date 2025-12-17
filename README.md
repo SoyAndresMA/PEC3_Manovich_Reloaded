@@ -3,10 +3,10 @@
 ### Recurso de aprendizaje de Cultura Digital 
 
 
-Autor: 
+Autor: Andrés Martínez
 
 
-Fecha: 
+Fecha: 19/12/2025
 
 ![Cultura Digital](https://miro.medium.com/max/1400/0*9PyyNvrO2PcD3KuU.png) 
 
@@ -15,18 +15,26 @@ Fecha:
 ## Planteamiento
 
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+En este documento vamos a explicar dos casos de hibridación. Pero antes debemos aclarar los términos principales. Partimos del concepto de multimedia como juntar varios medios en un mismo espacio. La remediación es cuando un medio nuevo representa o imita a uno antiguo, pero usando la tecnología digital.
+
+La cultura digital actual está redefiniendo nuestra definición de los medios. Según Manovich (2013), la hibridación se produce cuando diferentes medios se mezclan dentro del software y ya no funcionan como partes separadas, sino como una sola experiencia. En este proceso no solo se mezclan contenidos, sino también técnicas, datos y formas de interacción.
+
+Desde esta perspectiva, en este trabajo se analizan dos casos de hibridación contemporánea.
+- El primer caso es Microsoft Flight Simulator: es una plataforma de simulación de vuelo que combina cartografía digital, datos en tiempo real y visualización hiperrealista para crear una experiencia virtual del planeta.
+- El segundo caso es Meta Horizon Worlds: es un entorno social inmersivo que mezcla mundo virtual, avatares, comunicación social y minivideojuegos en un espacio digital VR.
+
+Estos dos ejemplos permiten ver como el software puede crear nuevos medios híbridos en la cultura digital actual.
 
 
-## Re-descubriendo la hibridacion: Caso 1
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+## Re-descubriendo la hibridacion: Microsoft Flight Simulator
 
 
 
-## Re-descubriendo la hibridacion: Caso 2
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+
+## Re-descubriendo la hibridacion: Meta Horizon Worlds
+
+
 
 
 ### Referencias y Bibliografía
