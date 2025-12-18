@@ -64,14 +64,36 @@ Por eso, Microsoft Flight Simulator podría aparecer sin problema en una nueva v
 
 
 
-## Re-descubriendo la hibridacion: Meta Horizon Worlds
+## Re-descubriendo la hibridación: Meta Horizon Worlds
+Meta Horizon Worlds es un entorno virtual social. No es solo un videojuego, tampoco es solo una red social; es un espacio digital donde las personas entran con un avatar y comparten actividades dentro de un mundo tridimensional. El usuario no mira una pantalla externa por que siente que está dentro del espacio "visrtual" (se mueve, habla, interactúa,...).
+El funcionamiento de Meta Horizon Worlds se basa en la realidad virtual. El cuerpo del usuario es traducido a movimientos dentro del entorno. Las manos, la cabeza, La posición. Todo se convierte en datos que el sistema interpreta. El software crea un mundo persistente donde los usuarios coinciden en tiempo real. No es una escena cerrada. Es un espacio que sigue existiendo cuando el usuario se va.
+
+### Dónde ocurre la hibridación:
+La hibridación ocurre dentro del propio software. No hay una separación clara entre comunicación, juego y espacio virtual. Hablar con otras personas no ocurre fuera del mundo, ocurre dentro. La voz forma parte del entorno. El avatar se mueve mientras habla. La comunicación se mezcla con el espacio tridimensional.
+El mundo virtual no es solo un decorado. Es un lugar donde se realizan acciones: juegos pequeños, reuniones, eventos, actividades sociales, etc. Todo ocurre en el mismo entorno, no se cambia de medio. No se pasa de una app a otra. El software lo integra todo como una sola experiencia.
+Los avatares son una parte importante. Representan al usuario, pero no como una foto o un perfil plano. Tienen cuerpo, ocupan espacio, se mueven, miran y gesticulan. El avatar no es solo imagen, es interfaz y es presencia. El usuario existe dentro del sistema a través de él.
+Los datos también están siempre presentes: la posición de los usuarios, la distancia entre ellos, el sonido, la interacción con los objetos, etc. Todo está controlado por el software. El usuario no ve números lo que ve son personas y acciones. Pero detrás hay información que se procesa constantemente.
+
+### Estética híbrida
+La estética de Meta Horizon Worlds es híbrida. No busca realismo total pero tampoco es completamente abstracta. Los mundos tienen un aspecto de videojuego, pero funcionan como espacios sociales. Los objetos son simples. Los cuerpos no son realistas. Pero el comportamiento es social porque se habla, se espera y se comparte tiempo.
+La interfaz no aparece como un menú tradicional. No hay ventanas flotantes todo el tiempo. La interfaz es el propio cuerpo virtual. Las manos sirven para interactuar. El espacio sirve para orientarse. Mirar es una forma de navegar y moverse es una forma de seleccionar. La interacción ocurre de manera natural dentro del entorno. Esta mezcla no es decorativa y forma parte del medio. El software une estética de videojuego, lógica de red social y espacio tridimensional inmersivo. No se pueden separar ya que todo ocurre al mismo tiempo. El usuario no piensa si está jugando o socializando. Simplemente está dentro.
+
+Meta Horizon Worlds es un ejemplo claro de hibridación porque crea un nuevo tipo de medio: no es un chat, no es un juego, no es una red social, no es una web, no es mundo virtual tradicional. Es una experiencia donde el software mezcla comunicación, cuerpo, espacio y datos en una sola forma de interacción.
+Por eso este caso encaja bien con lo que explica Manovich. El software no suma medios antiguos, ahora los transforma. Crea una nueva experiencia que solo puede existir dentro del entorno digital. Meta Horizon Worlds muestra cómo la cultura digital está explorando nuevas formas de relación social a través de medios híbridos.
+
+![Meta Horizon Worlds](https://static.xx.fbcdn.net/rsrc.php/v4/yb/r/z7edGJNrFTu.png)
 
 
-
+---
 
 ### Referencias y Bibliografía
 
-* Manovich, Lev. (2013). **El Software toma el mando**. Barcelona: Editorial UOC. 
+* Manovich, Lev. (2013). **El Software toma el mando**. Barcelona: Editorial UOC.
+* Manovich, L. (2007). *Understanding Hybrid Media*. Nueva York: The MIT Press.
+* Adell, F. (2014). *Remediación, multimedia e hibridación de los medios*. Barcelona: Editorial UOC.
+* Gea, M. (2022). *Herramientas y metodología de crowdsourcing para la participación y creación colectiva de conocimiento abierto*. Barcelona: Editorial UOC.
+* Meta. (2025). *Horizon Worlds*. Recuperado de https://www.meta.com/horizon-worlds/
+*Microsoft. (2025). *Microsoft Flight Simulator*. Recuperado de https://www.flightsimulator.com/
 
 
 ----
