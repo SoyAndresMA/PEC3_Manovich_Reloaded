@@ -65,8 +65,8 @@ Por eso, Microsoft Flight Simulator podría aparecer sin problema en una nueva v
 
 
 ## Re-descubriendo la hibridación: Meta Horizon Worlds
-Meta Horizon Worlds es un entorno virtual social. No es solo un videojuego, tampoco es solo una red social; es un espacio digital donde las personas entran con un avatar y comparten actividades dentro de un mundo tridimensional. El usuario no mira una pantalla externa por que siente que está dentro del espacio "visrtual" (se mueve, habla, interactúa,...).
-El funcionamiento de Meta Horizon Worlds se basa en la realidad virtual. El cuerpo del usuario es traducido a movimientos dentro del entorno. Las manos, la cabeza, La posición. Todo se convierte en datos que el sistema interpreta. El software crea un mundo persistente donde los usuarios coinciden en tiempo real. No es una escena cerrada. Es un espacio que sigue existiendo cuando el usuario se va.
+Meta Horizon Worlds es un entorno virtual social. No es solo un videojuego, tampoco es solo una red social; es un espacio digital donde las personas entran con un avatar y comparten actividades dentro de un mundo tridimensional. El usuario no mira una pantalla externa porque siente que está dentro del espacio "visrtual" (se mueve, habla, interactúa,...).
+El funcionamiento de Meta Horizon Worlds se basa en la realidad virtual. El cuerpo del usuario es traducido a movimientos dentro del entorno: las manos, la cabeza, la posición. Todo se convierte en datos que el sistema interpreta. El software crea un mundo persistente donde los usuarios coinciden en tiempo real. No es una escena cerrada. Es un espacio que sigue existiendo cuando el usuario se va.
 
 ### Dónde ocurre la hibridación:
 La hibridación ocurre dentro del propio software. No hay una separación clara entre comunicación, juego y espacio virtual. Hablar con otras personas no ocurre fuera del mundo, ocurre dentro. La voz forma parte del entorno. El avatar se mueve mientras habla. La comunicación se mezcla con el espacio tridimensional.
@@ -93,7 +93,7 @@ Por eso este caso encaja bien con lo que explica Manovich. El software no suma m
 * Adell, F. (2014). *Remediación, multimedia e hibridación de los medios*. Barcelona: Editorial UOC.
 * Gea, M. (2022). *Herramientas y metodología de crowdsourcing para la participación y creación colectiva de conocimiento abierto*. Barcelona: Editorial UOC.
 * Meta. (2025). *Horizon Worlds*. Recuperado de https://www.meta.com/horizon-worlds/
-*Microsoft. (2025). *Microsoft Flight Simulator*. Recuperado de https://www.flightsimulator.com/
+* Microsoft. (2025). *Microsoft Flight Simulator*. Recuperado de https://www.flightsimulator.com/
 
 
 ----
